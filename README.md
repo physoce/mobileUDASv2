@@ -7,3 +7,4 @@ Data acquisition script for MLML mobile UDAS. Version 2 created by students in t
 
 - Open [UDAS_Master_Compilation.py](UDAS_Master_Compilation.py) and edit the COM ports, as necessary (see instructions in comments)
 - Run the script [UDAS_Master_Compilation.py](UDAS_Master_Compilation.py)
+- See the user manual for details on usage of the the UDAS system
